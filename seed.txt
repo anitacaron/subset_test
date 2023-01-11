@@ -1,0 +1,4 @@
+http://purl.obolibrary.org/obo/CL_1000497
+http://purl.obolibrary.org/obo/CL_0000653
+http://purl.obolibrary.org/obo/CL_0002518
+http://purl.obolibrary.org/obo/CL_1000449
