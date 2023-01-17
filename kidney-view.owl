@@ -311,6 +311,7 @@ A continuant cannot be part of an occurrent: use &apos;participates in&apos;. An
     <!-- http://purl.obolibrary.org/obo/CL_0000653 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CL_0000653">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_1000449"/>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A specialized kidney epithelial cell, contained within a glomerulus, that contains &quot;feet&quot; that interdigitate with the &quot;feet&quot; of other podocytes.</obo:IAO_0000115>
         <obo:RO_0002175 rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
         <terms:contributor rdf:resource="https://orcid.org/0000-0002-1773-2692"/>

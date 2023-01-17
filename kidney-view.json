@@ -299,6 +299,10 @@
       }
     } ],
     "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/CL_0000653",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/CL_1000449"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/CL_0002518",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/CL_1000497"
